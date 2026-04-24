@@ -1,6 +1,6 @@
-# 🏆 LoL Synergy Randomizer 2026
+# 🏆 LoL Troll Roll
 
-A premium, cinematic League of Legends champion selection tool designed for the modern era. Forge your team synergy with a high-end Hextech aesthetic.
+A premium, cinematic League of Legends champion randomizer. Forge your chaotic team comps with a high-end Hextech aesthetic.
 
 
 [![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://shanshel.github.io/LoL-Nexus-Roller/)
