@@ -81,6 +81,15 @@ function addSlot() {
             <option value="Root">Root</option>
             <option value="Short">Short</option>
             <option value="Scaling">Scaling</option>
+            <option value="Hook">Hook</option>
+            <option value="Invisible">Invisible</option>
+            <option value="Global">Global</option>
+            <option value="Resets">Resets</option>
+            <option value="Execute">Execute</option>
+            <option value="Zoner">Zoner</option>
+            <option value="Yasuo's Mate">Yasuo's Mate</option>
+            <option value="Burn">Burn</option>
+            <option value="Shielding">Shielding</option>
           </select>
         </div>
     </div>
